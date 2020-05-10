@@ -1,5 +1,6 @@
 # Budget-Calculator
 Renders a web page that calculates budget based on user given list incomes and expenses.
+
 Main learning areas of this project are:
 * organizing the whole project into semantic modules based on the project architecture, so as to write clean and understandable code.
 * working with IIFEs to protect data from being accessed from outside the scope of a function
